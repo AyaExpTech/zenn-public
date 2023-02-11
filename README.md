@@ -1,7 +1,8 @@
 # zenn-public
 zennの記事 公開分(無料など)
 
-## 規約
+## 利用規約
 
 Author : AyaExpTech  
-Licensed by "AeTOS(Type-01暫定)"
+Licensed by "AeTOS for Creator"(暫定)
+> https://axtech.dev/license/
